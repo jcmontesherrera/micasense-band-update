@@ -1,14 +1,7 @@
----
-title: "Fixing Micasense Multispectral Band Metadata"
-authors: ["J.C. Montes-Herrera", "Arko Lucieer", "Claude-3.7-sonnet (Thinking)"]
-date: "2025-10-03"
-description: "Documentation of a large-scale metadata correction for multispectral drone imagery across 108 Australian datasets"
-tags: ["multispectral", "metadata", "exiftool", "drone", "remote sensing"]
-project: "DroneScape"
-version: "1.0"
----
-
 # Fixing Micasense Multispectral Band Metadata
+Authors: J.C. Montes-Herrera, Arko Lucieer, Claude-3.7-sonnet (Thinking)
+Description: Documentation of a large-scale metadata correction for multispectral drone imagery across 108 Australian datasets.
+Tags: ["multispectral", "metadata", "exiftool", "drone", "remote sensing"]
 
 ## Problem Overview
 
