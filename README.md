@@ -4,6 +4,9 @@
 **Description:** Documentation of a large-scale metadata correction for multispectral drone imagery across 108 Australian datasets.<br>
 **Tags:** multispectral, metadata, exiftool, drone, remote sensing, micasense
 
+## Outcome
+This massive metadata correction effort successfully restored over 312,177 individual files across 108 datasets spanning three Australian territories. It began as anomalies in spectral signatures, then become a comprehensive data restoration operation, ensuring the scientific integrity of the entire **dronescape** multispectral archive (April 2024 - April 2025) for future research and analysis.
+
 ## Problem Overview
 
 We discovered an issue with multispectral drone imagery metadata when attempting to plot spectral profiles of vegetation and soil. The spectral signatures of healthy vegetation did not match expected patterns based on plant physiology knowledge. Upon visual analysis of the imagery, we noticed that bands supposedly capturing infrared wavelengths showed dark pixels in areas of green, healthy vegetation - which contradicts known vegetation reflectance properties. Simultaneously, the red band displayed unusually bright pixels in healthy vegetation areas, which is physiologically implausible as chlorophyll strongly absorbs red light.
@@ -236,8 +239,6 @@ The following datasets have been processed with this metadata update tool:
 | WAAAVW0003 | 20250405 |
 | WAAAVW0004 | 20250405 |
 | WAAAVW0008 | 20250405 |
-
-This massive metadata correction effort successfully restored over 312,177 individual files across 108 datasets spanning three Australian territories. What began as anomalies in spectral signatures transformed into a comprehensive data restoration operation, ensuring the scientific integrity of the entire **dronescape** multispectral archive for future research and analysis.
 
 ## Important Note
 
